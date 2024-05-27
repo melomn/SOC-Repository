@@ -166,3 +166,7 @@ volumes:
   elasticsearchdata:
   thehivedata:
   mispsqldata:
+
+  networks:
+    SOC_NET:
+          driver: bridge
