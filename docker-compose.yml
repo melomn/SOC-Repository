@@ -167,6 +167,3 @@ volumes:
   thehivedata:
   mispsqldata:
 
-  networks:
-    SOC_NET:
-          driver: bridge
